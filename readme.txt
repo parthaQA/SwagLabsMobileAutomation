@@ -1,3 +1,5 @@
+[Installation Steps]
+
 install Java JDK
 Appium needs Java for Android automation.
 
@@ -50,6 +52,7 @@ Connect device:
 enable developer option in device
 Enable usb debugging from developer option
 connect device with USB
+
 
 [Execution]
 

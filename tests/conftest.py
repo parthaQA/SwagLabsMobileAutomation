@@ -1,9 +1,7 @@
-from itertools import product
-
 import pytest
 from appium import webdriver
 from appium.options.common import AppiumOptions
-
+from config.config_helper import urls
 from screens.cart import Cart
 from screens.checkout import Checkout
 from screens.login import Login
@@ -36,7 +34,7 @@ def setup(request):
         options.load_capabilities({
             "platformName": "ios",
         })
-    driver = webdriver.Remote("http://127.0.0.1:4723", options=options)
+    driver = webdriver.Remote(urls.get("remote_url"), options=options)
     util = CommonUtils(driver)
     request.cls.util = util
     login = Login(driver)

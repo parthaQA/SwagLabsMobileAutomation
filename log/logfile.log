@@ -18,3 +18,21 @@
 2025-08-09 22:03:12,692 :INFO : validate_text : Username and password do not match any user in this service. is found
 2025-08-09 22:07:07,042 :INFO : test_verify_valid_login : login successful
 2025-08-09 22:07:18,128 :INFO : validate_text : Username and password do not match any user in this service. is found
+2025-08-11 18:06:30,687 :INFO : test_number_of_prouducts_in_cart : cart value is [<appium.webdriver.webelement.WebElement (session="5c55c5fd-b382-491e-b967-5982a9c60dcc", element="00000000-0000-0018-ffff-ffff000000c0")>]
+2025-08-11 18:07:24,505 :INFO : test_remove_products_from_cart : cart value is [<appium.webdriver.webelement.WebElement (session="cab4102e-28d2-4ccf-9557-92eea62055fe", element="00000000-0000-0031-ffff-ffff000000c0")>]
+2025-08-11 18:08:25,637 :INFO : validate_text : $9.99 is found
+2025-08-11 18:09:28,457 :INFO : validate_text : $9.99 is found
+2025-08-11 18:09:28,457 :INFO : validate_text : $9.99 is found
+2025-08-11 18:11:04,902 :INFO : validate_text : $9.99 is found
+2025-08-11 18:11:04,902 :INFO : validate_text : $9.99 is found
+2025-08-11 18:11:04,902 :INFO : validate_text : $9.99 is found
+2025-08-11 18:12:00,671 :INFO : validate_text : $9.99 is found
+2025-08-11 18:12:00,671 :INFO : validate_text : $9.99 is found
+2025-08-11 18:12:00,671 :INFO : validate_text : $9.99 is found
+2025-08-11 18:12:00,671 :INFO : validate_text : $9.99 is found
+2025-08-11 18:12:55,362 :INFO : test_verify_valid_login : login successful
+2025-08-11 18:13:04,367 :INFO : validate_text : Username and password do not match any user in this service. is found
+2025-08-11 18:13:04,367 :INFO : validate_text : Username and password do not match any user in this service. is found
+2025-08-11 18:13:04,367 :INFO : validate_text : Username and password do not match any user in this service. is found
+2025-08-11 18:13:04,367 :INFO : validate_text : Username and password do not match any user in this service. is found
+2025-08-11 18:13:04,367 :INFO : validate_text : Username and password do not match any user in this service. is found
